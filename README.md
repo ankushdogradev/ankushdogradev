@@ -8,14 +8,13 @@ I am passionate about game development🕹 and love to learn new things.
 
 Some few things that I've picked up along my dev👨‍💻 journey.
 
-* HTML | CSS | JavaScript 
-* Node.js
+* 🐱‍👤HTML | CSS | JavaScript 
+* 🟩Node.js
 * 🛢️ PostgreSQL
 * :octocat: Git | Github
-* React
-* Unity
-* Blender
-* 
+* ⚛React
+* 🕹Unity
+* 🔥Blender
 
 
 
