@@ -10,7 +10,7 @@ Some few things that I've picked up along my dev👨‍💻 journey.
 
 * 🐱‍👤HTML | CSS | JavaScript 
 * 🟩Node.js
-* 🛢️ PostgreSQL
+* 🛢️ PostgreSQL | MongoDB
 * :octocat: Git | Github
 * ⚛React
 * 🕹Unity
