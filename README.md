@@ -9,12 +9,11 @@ I am passionate about game development🕹 and love to learn new things.
 Some few things that I've picked up along my dev👨‍💻 journey.
 
 * 🐱‍👤HTML | CSS | JavaScript 
-* 🟩Node.js
+* 🟩Node.js | Express
 * 🛢️ PostgreSQL | MongoDB
-* :octocat: Git | Github
 * ⚛React
-* 🕹Unity
-* 🔥Blender
+* 🟣Figma
+* 🎮Unity
 
 
 
