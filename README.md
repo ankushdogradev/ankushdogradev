@@ -2,7 +2,6 @@
 
 I am currently learing full stack web development & UI/UX using Figma.
 
-I am passionate about game development🕹 and love to learn new things.
 
 ## ⚡ Tech Stack
 
