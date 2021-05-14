@@ -5,7 +5,7 @@ I am currently learing full stack web development & UI/UX using Figma.
 
 ## ⚡ Tech Stack
 
-Some few things that I've picked up along my dev👨‍💻 journey.
+Few things that I've picked up along my dev👨‍💻 journey.
 
 * 🐱‍👤HTML | CSS | JavaScript 
 * 🟩Node.js | Express
