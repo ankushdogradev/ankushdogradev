@@ -7,12 +7,12 @@ I am currently learing full stack web development & UI/UX using Figma.
 
 Few things that I've picked up along my dev👨‍💻 journey.
 
-* 🐱‍👤HTML | CSS | JavaScript 
-* 🟩Node.js | Express
+* 🐱‍👤HTML | CSS | SCSS | JavaScript 
+* 🟩Node.js | Express | Mongoose
 * 🛢️ PostgreSQL | MongoDB
-* ⚛React
+* ⚛React | React REDUX | React Router | Hooks
 * 🟣Figma
-* 🎮Unity
+
 
 
 
