@@ -16,7 +16,7 @@ Currently I'm learning:
 
 
 
-<a href="https://github.com/ankushdogradev"><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ankushdogradev&theme=midnight-purple&show_icons=true" /><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushdogradev&theme=midnight-purple&layout=compact" />
+<a href="https://github.com/ankushdogradev"><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ankushdogradev&theme=dark&show_icons=true" /><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushdogradev&theme=dark&layout=compact" />
 </a>
 
 
