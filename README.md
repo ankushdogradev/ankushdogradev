@@ -1,18 +1,18 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there! I am Ankush & I ❤ code
-
-I am currently learing full stack web development & UI/UX using Figma.
-
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">Hi there! I am Ankush  a full-stack developer from India
 
 ## ⚡ Tech Stack
 
-Few things that I've picked up along my dev👨‍💻 journey.
+Few things that I've picked up along my dev👨‍💻 journey:
 
 * 🐱‍👤HTML | CSS | SCSS | JavaScript 
 * 🟩Node.js | Express | Mongoose
 * 🛢️ PostgreSQL | MongoDB
 * ⚛React | React REDUX | React Router | Hooks
-* 🟣Figma
 
+Currently I'm learning:
+
+* Data Structure & Algorithms
+* Figma- UI/UX
 
 
 
