@@ -20,4 +20,5 @@ Currently I'm learning:
 ##📙Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Big O Notation](https://dev.to/ankushdogradev/big-o-notation-3kf4)
 <!-- BLOG-POST-LIST:END -->
