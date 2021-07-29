@@ -6,10 +6,10 @@
 
 Few things that I've picked up along my dev👨‍💻 journey:
 
-- 🐱‍👤HTML | CSS | SCSS | JavaScript
-- 🟩Node.js | Express | Mongoose
-- 🛢️ PostgreSQL | MongoDB
-- ⚛React | React REDUX | React Router | Hooks
+- HTML | CSS | SCSS | JavaScript
+- Node.js | Express | Mongoose
+- PostgreSQL | MongoDB
+- React | React REDUX | React Router | Hooks
 
 Currently I'm learning:
 
