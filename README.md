@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">Hi there! I am Ankush a full-stack developer from India
 
 ## ⚡ Tech Stack
