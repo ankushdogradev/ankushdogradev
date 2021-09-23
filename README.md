@@ -1,6 +1,4 @@
-# <p align="center"><img src="https://user-images.githubusercontent.com/75878788/127529542-aaf6e23f-b2e0-4f0b-a588-e922c8bb6ce5.png" width=auto height="250" align="center"></p>
-
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">Hi there! I am Ankush a full-stack developer from India
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">Hi there! I am Ankush a Web Developer from India
 
 ## ⚡ Tech Stack
 
