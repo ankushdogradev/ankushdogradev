@@ -8,11 +8,11 @@ Few things that I've picked up along my dev👨‍💻 journey:
 - Node.js | Express | Mongoose
 - PostgreSQL | MongoDB
 - React | React REDUX | React Router | Hooks
+- Shopify Theme Develompent
 
 Currently I'm learning:
 
-- firebase
-- TypeScrypt
+- UI/UX
 
 <a href="https://github.com/ankushdogradev"><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ankushdogradev&theme=github_dark&show_icons=true" /><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushdogradev&theme=github_dark&layout=compact" />
 </a>
